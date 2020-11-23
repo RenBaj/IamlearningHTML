@@ -1,0 +1,14 @@
+body *{
+    background-color: rgb(33, 145, 153);
+    color:white;
+}
+img {
+    border: 5px solid rgb(12, 189, 174);
+    border-radius: 20px;
+}
+    .halfwidth {
+        border: 5px solid rgb(12, 189, 174);
+        border-radius: 20px;
+        width: 30%;
+    }
+    
